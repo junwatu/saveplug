@@ -1,9 +1,9 @@
 {
 	"schema_version": "v1",
-	"name_for_human": "saveit",
-	"name_for_model": "savetomd",
-	"description_for_human": "Save ChatGPT to markdown file",
-	"description_for_model": "Help the user to save ChatGPT response into markdown file",
+	"name_for_human": "save any text from chatgpt into file",
+	"name_for_model": "saveplug",
+	"description_for_human": "Save ChatGPT response into a file",
+	"description_for_model": "Help the user to save ChatGPT response into a file",
 	"auth": {
 		"type": "none"
 	},
