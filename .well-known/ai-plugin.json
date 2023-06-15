@@ -1,0 +1,17 @@
+{
+	"schema_version": "v1",
+	"name_for_human": "saveit",
+	"name_for_model": "savetomd",
+	"description_for_human": "Save ChatGPT to markdown file",
+	"description_for_model": "Help the user to save ChatGPT response into markdown file",
+	"auth": {
+		"type": "none"
+	},
+	"api": {
+		"type": "openapi",
+		"url": "http://localhost:3333/openapi.yaml"
+	},
+	"logo_url": "http://localhost:3333/logo.png",
+	"contact_email": "support@junwatu.com",
+	"legal_info_url": "http://www.junwatu.com/legal"
+}
